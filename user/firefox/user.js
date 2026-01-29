@@ -13,7 +13,6 @@ user_pref("widget.wayland.vsync.enabled", false);
 user_pref("gfx.webrender.all", true);
 user_pref("gfx.webrender.compositor", true);
 user_pref("gfx.webrender.layer-compositor", true);
-user_pref("layers.acceleration.force-enabled", true);
 
 // UI customization
 user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);
